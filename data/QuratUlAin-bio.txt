@@ -1,0 +1,3 @@
+I am Qurat Ul Ain, a first-year student at York University with a strong interest in technology and creativity. I am passionate about coding and enjoy building projects that strengthen my problem-solving skills. So far, I have developed Python-based applications such as a dice game and a math calculator, which have helped me gain a solid foundation in programming.
+
+Beyond academics, I enjoy reading books and expressing my creativity through painting. I am continuously exploring new ways to combine logic and creativity, both in my technical work and personal interests. As I progress in my studies, I aim to expand my knowledge in computer science and take on more challenging projects that contribute to my growth as a developer.
